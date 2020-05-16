@@ -1,0 +1,22 @@
+#main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+button {
+    margin-top: 50px;
+    outline: none;
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    background-color: beige;
+    border: 1px solid black ;
+}
+
+canvas {
+    border: 1px dashed black;
+}
